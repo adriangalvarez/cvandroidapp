@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lyt_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtTechTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/techs"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textAlignment="center"
+            android:padding="@dimen/spacing_medium"
+            android:textColor="@color/colorSecondaryText"
+            android:textStyle="bold"
+            android:fontFamily="@font/torus_semibold"
+            android:textSize="20sp"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/imgTech"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:paddingTop="@dimen/spacing_medium"
+            android:paddingBottom="@dimen/spacing_medium"
+            android:scaleType="centerInside"
+            android:layout_marginLeft="@dimen/spacing_xlarge"
+            android:layout_marginRight="@dimen/spacing_xlarge"
+            android:src="@drawable/ic_dotnet" />
+
+        <TextView
+            android:id="@+id/txtTechDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dotnet"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textAlignment="center"
+            android:padding="@dimen/spacing_medium"
+            android:textColor="@color/colorSecondaryText"
+            android:textStyle="bold"
+            android:fontFamily="@font/torus_semibold"
+            android:textSize="18sp"
+            android:visibility="visible" />
+
+    </LinearLayout>
+</RelativeLayout>

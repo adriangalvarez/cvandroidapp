@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="@string/menu_about"
+            android:visible="true" />
+
+        <item
+            android:id="@+id/nav_experience"
+            android:icon="@drawable/ic_experience"
+            android:title="@string/menu_experience"
+            android:visible="true" />
+
+        <item
+            android:id="@+id/nav_education"
+            android:icon="@drawable/ic_education"
+            android:title="@string/menu_education"
+            android:visible="true" />
+        <item
+            android:id="@+id/nav_certs"
+            android:icon="@drawable/ic_certs"
+            android:title="@string/menu_certs"
+            android:visible="true" />
+
+        <item
+            android:id="@+id/nav_techs"
+            android:icon="@drawable/ic_techs"
+            android:title="@string/menu_techs" />
+
+        <item
+            android:id="@+id/nav_languages"
+            android:icon="@drawable/ic_languages"
+            android:title="@string/menu_languages"
+            android:visible="true" />
+    </group>
+</menu>
