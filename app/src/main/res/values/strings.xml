@@ -1,0 +1,241 @@
+<resources>
+    <string name="app_name">Demo CV</string>
+    <string name="name">Tu nombre</string>
+    <string name="email">usuario@servidor.com</string>
+    <string name="login">Login</string>
+
+    <string name="techs">Lorem Ipsum</string>
+    <string name="dotnet">Lorem Ipsum</string>
+    <string name="android">Lorem Ipsum</string>
+    <string name="bbdd">Lorem Ipsum</string>
+    <string name="techs_desuso">Lorem Ipsum</string>
+    <string name="techs_desuso_desc">Lorem Ipsum</string>
+
+    <string name="menu_about">Sobre mí</string>
+    <string name="menu_experience">Experiencia laboral</string>
+    <string name="menu_education">Educación</string>
+    <string name="menu_certs">Certificaciones</string>
+    <string name="menu_techs">Tecnologías</string>
+    <string name="menu_languages">Idiomas</string>
+
+    <string name="navigation_drawer_open">Abrir menú lateral</string>
+    <string name="navigation_drawer_close">Cerrar menú lateral</string>
+
+    <string name="aboutme">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="edu_uni_comodoro">Lorem Ipsum</string>
+    <string name="edu_uni_comodoro_dates">Desde &#8211; hasta</string>
+    <string name="edu_uni_comodoro_detail">Lorem Ipsum</string>
+
+    <string name="edu_uni_uk">Lorem Ipsum \"Lorem Ipsum\"</string>
+    <string name="edu_uni_uk_dates">Desde &#8211; Hasta</string>
+    <string name="edu_uni_uk_detail">Lorem Ipsum</string>
+
+    <string name="edu_utn_pji">Lorem Ipsum</string>
+    <string name="edu_utn_dates">Fecha</string>
+    <string name="edu_utn_detail">Lorem Ipsum.</string>
+
+    <string name="certs_oficial_utn_detail">Lorem Ipsum</string>
+    <string name="certs_oficial_utn_title">Lorem Ipsum</string>
+
+    <string name="certs_oficial_ms_title">Lorem Ipsum</string>
+    <string name="certs_oficial_ms_detail">Lorem Ipsum</string>
+
+    <string name="certs_oficial_mcts_title">Lorem Ipsum</string>
+    <string name="certs_oficial_mcts_detail">Lorem Ipsum</string>
+
+    <string name="certs_oficial_eng_title">Lorem Ipsum</string>
+    <string name="certs_oficial_eng_detail">Lorem Ipsum</string>
+
+    <string name="langs_english">Inglés</string>
+    <string name="langs_english_level">Avanzado</string>
+
+    <string name="langs_portuguese">Portugués</string>
+    <string name="langs_portuguese_level">Intermedio</string>
+
+    <string name="langs_russian">Ruso</string>
+    <string name="langs_russian_level">Básico limitado</string>
+
+    <string name="work_experience_cuentapropia">Lorem Ipsum</string>
+    <string name="work_experience_cpe">Lorem Ipsum</string>
+    <string name="work_experience_dev">Lorem Ipsum</string>
+    <string name="work_experience_foxpro">Lorem Ipsum</string>
+
+    <string name="work_experiencie_android_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_android">Lorem Ipsum</string>
+    <string name="work_experience_android_detail">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="work_experiencie_dotnet_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_dotnet">Lorem Ipsum</string>
+    <string name="work_experience_dotnet_detail">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="work_experience_teach_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_teach">Lorem Ipsum</string>
+    <string name="work_experience_teach_detail">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="work_experience_counselor_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_counselor">Lorem Ipsum</string>
+    <string name="work_experience_counselor_detail">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="work_experience_schools_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_schools">Lorem Ipsum</string>
+    <string name="work_experience_schools_detail">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="work_experience_conf4it_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_conf4it">Lorem Ipsum</string>
+    <string name="work_experience_conf4it_detail">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="work_experience_english_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_english">Lorem Ipsum</string>
+    <string name="work_experience_english_detail">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="work_experience_cefyap_where">Lorem Ipsum</string>
+    <string name="work_experience_cefyap_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_cefyap">Lorem Ipsum</string>
+    <string name="work_experience_cefyap_detail">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="work_experience_esco">Lorem Ipsum</string>
+    <string name="work_experience_esco_where">Lorem Ipsum</string>
+    <string name="work_experience_esco_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_esco_detail">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="work_experience_austral">Lorem Ipsum</string>
+    <string name="work_experience_austral_where">Lorem Ipsum</string>
+    <string name="work_experience_austral_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_austral_detail">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="work_experience_own_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_own_detail">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="work_experience_technician">Lorem Ipsum</string>
+    <string name="work_experience_technician_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_technician_detail">
+        Configuración y asistencia técnica sobre PC para clientes particulares.
+    </string>
+
+    <string name="work_experience_nv">Lorem Ipsum</string>
+    <string name="work_experience_nv_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_nv_where">Lorem Ipsum</string>
+    <string name="work_experience_nv_detail">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="work_experience_digicard">Lorem Ipsum</string>
+    <string name="work_experience_digicard_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_digicard_where">Lorem Ipsum</string>
+    <string name="work_experience_digicard_detail">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="work_experience_newtech_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_newtech_where">Lorem Ipsum</string>
+    <string name="work_experience_newtech_detail">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="work_experience_rs_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_rs_where">Lorem Ipsum</string>
+    <string name="work_experience_rs_detail">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="work_experience_college_dates">Desde &#8211; Hasta</string>
+    <string name="work_experience_college_where">Lorem Ipsum</string>
+    <string name="work_experience_college_detail">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.    
+    </string>
+
+    <string name="hide">Esconder</string>
+</resources>
